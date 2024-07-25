@@ -4,7 +4,7 @@
 
 ## About me
 
-<p> I am a full stack developer with experience in creating and maintaining complete web applications. My skills cover both frontend and backend development, allowing me to manage projects from start to finish. I have a strong knowledge of technologies such as React, Node.js, and both SQL and NoSQL databases. My goal is to build efficient, scalable, and maintainable applications.
+<p> I am a full stack developer with experience in creating and maintaining complete web applications. My main strengths are React for the frontend and NestJS for the backend, allowing me to manage projects from start to finish.
 </p>
 
 ##  Languages and Tools:
